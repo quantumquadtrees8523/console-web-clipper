@@ -1,8 +1,12 @@
 # ✂️ Trilium Web Clipper
 
-TriliumNext Web Clipper is a web browser extension which allows the user to create quick notes or to clip text, screenshots, or content from web pages and save them directly to [TriliumNext Notes](https://github.com/TriliumNext/Notes/issues?q=is%3Aopen+is%3Aissue+label%3Aweb-clipper).
+TriliumNext Web Clipper is a web browser extension which allows the user to create quick notes or to clip text, screenshots, or content from web pages and save them directly to [TriliumNext Notes](https://github.com/TriliumNext/Notes).
 
 For more details, see the web-clipper [wiki page](https://triliumnext.github.io/Docs/Wiki/web-clipper.html).
+
+## 🪲Issues
+
+Please report issues for the web-clipper to the [TriliumNext Notes](https://github.com/TriliumNext/Notes/issues?q=is%3Aopen+is%3Aissue+label%3Aweb-clipper) repository.
 
 ## ⌨️ Keyboard Shortcuts
 
